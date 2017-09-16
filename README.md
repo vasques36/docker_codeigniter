@@ -50,3 +50,4 @@ Sorry windows people :-(
 - [ ]   Convert bash scripts into something portable
 - [ ]   Write better docs
 
+another Greg
